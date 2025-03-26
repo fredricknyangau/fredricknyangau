@@ -23,7 +23,7 @@ A platform showcasing African musical instruments with history, images, and soun
 * Audio samples for each instrument.
 * User-friendly interface for easy navigation.
 
-  ###🛠 Tech Stack
+  ### 🛠 Tech Stack
   - **Frontend** React.js, css
   - **Backend** Node.js, Express.js
   - **Database** MongoDB
