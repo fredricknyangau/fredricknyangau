@@ -28,7 +28,7 @@ A platform showcasing African musical instruments with history, images, and soun
   - **Backend** Node.js, Express.js
   - **Database** MongoDB
 
-🔗 [https://github.com/fredricknyangau/MusicEdu](#) | 🎬 [Demo](#) | 🖼️ [Screenshot/GIF](#)
+🔗 [https://github.com/fredricknyangau/MusicEdu](#) | 🎬 [https://music-edu.vercel.app/](#) 
 
 
 ### 🌐 **Freelancer Portfolio**
@@ -39,7 +39,7 @@ My personal portfolio with **dark mode**, **smooth animations**, and an improved
 * Smooth animations and transitions for enhanced user experience.
 * Clean and intuitive UI layout.
 
-🔗 [https://github.com/fredricknyangau/portfolio](#) | 🎬 [Live Preview](#) | 🖼️ [Screenshot/GIF](#)
+🔗 [https://github.com/fredricknyangau/portfolio](#) | 🎬 [https://fredricknyangau.vercel.app/](#) 
 
 ---
 
