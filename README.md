@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fredrick!
 
-I'm an Intermediate Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). Driven by a passion for clean code and intuitive design, I build scalable and user-centric web solutions that improve user engagement and streamline business processes. Eager to contribute to innovative projects and continuously expand my skill set.
+I'm a Junior Full-Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). Driven by a passion for clean code and intuitive design, I build scalable and user-centric web solutions that improve user engagement and streamline business processes. Eager to contribute to innovative projects and continuously expand my skill set.
 
 ---
 
