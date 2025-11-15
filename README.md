@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="./github-header-image.png" alt="Header">
-</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Backend+Developer;Open+Source+Contributor;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=Backend+Developer;Open+Source+Contributor;" alt="Typing Animation" />
   <br/><br/>
   <a href="https://fredricknyangau.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-fredricknyangau-0ea5a4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -30,10 +27,11 @@ Backend developer experienced in designing and implementing server-side systems,
 ## Core competencies
 
 - API design and implementation (REST, GraphQL)
-- Server-side development with Node.js and Express
-- Database design and optimization (MongoDB, PostgreSQL)
+- Server-side development with Node.js, Express, Python, and Flask
+- Database design and optimization (MongoDB, PostgreSQL, Redis)
+- Progressive Web Applications (PWA) development
 - Application architecture, performance tuning and caching
-- Containerization and deployment (Docker, Vercel, CI/CD)
+- Containerization and deployment (Docker, Nginx, Vercel, CI/CD)
 - Observability: logging, metrics, and error tracking
 - Testing: unit, integration and end-to-end testing
 - Security fundamentals: authentication, authorization, input validation
@@ -42,16 +40,18 @@ Backend developer experienced in designing and implementing server-side systems,
 
 ## Technical stack
 
-JavaScript · TypeScript · Node.js · Express · MongoDB · PostgreSQL · Docker · Git · CI/CD
-
-Badges:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-31648F?logo=postgresql&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![PWA](https://img.shields.io/badge/-PWA-5A0FC8?logo=pwa&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -87,17 +87,17 @@ If you reuse content, please retain attribution and contact information.
 
 ## Contact
 
-For professional inquiries or collaboration, contact:
-
-- Email: nyangaufredrick443@gmail.com
-- LinkedIn: https://www.linkedin.com/in/fredrick-nyang-au-857b75233
-- Portfolio: https://fredricknyangau.vercel.app/
-
----
-
-## Additional information
-
-If you would like a license added, a contributing guide, or CI/coverage badges, I can add those on request.
+<p align="center">
+  <a href="mailto:nyangaufredrick443@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/fredrick-nyang-au-857b75233">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fredricknyangau.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5a4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
