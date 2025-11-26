@@ -104,7 +104,7 @@ If you reuse content, please retain attribution and contact information.
 ## GitHub statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fredricknyangau&show_icons=true&theme=radical" alt="GitHub stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=fredricknyangau&show_icons=true&theme=radical" alt="GitHub stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredricknyangau&layout=compact&theme=radical" alt="Top languages" />
 </div>
 
