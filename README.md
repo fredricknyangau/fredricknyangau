@@ -103,3 +103,9 @@ Additional projects and contributions are available on the GitHub profile: https
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fredricknyangau&theme=radical" alt="Top languages" />
 </div>
+
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
+
+</p>
