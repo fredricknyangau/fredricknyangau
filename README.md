@@ -1,122 +1,62 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=Backend+Developer;Django+Developer;PWA+Enthusiast;Open+Source+Contribu[...]"/>
-  <br/><br/>
-  <a href="https://fredricknyangau.vercel.app/">
-    <img src="assets/assets/logos/vercel.svg" alt="Portfolio" height="28" style="vertical-align:middle"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/fredrick-nyang-au-857b75233">
-    <img src="assets/assets/logos/linkedin.svg" alt="LinkedIn" height="28" style="vertical-align:middle"/>
-  </a>
-  
-  <a href="mailto:nyangaufredrick443@gmail.com">
-    <img src="assets/assets/logos/gmail.svg" alt="Email" height="28" style="vertical-align:middle"/>
-  </a>
-  
-</p>
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Backend+Developer;Django+%26+FastAPI+Specialist;PWA+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+
+  <p>
+    <a href="https://fredricknyangau.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/fredrick-nyang-au-857b75233" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:nyangaufredrick443@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## Professional summary
+### 👨‍💻 About Me
 
-Backend developer experienced in designing and implementing server-side systems, APIs, and data storage solutions. Focus areas include API design (REST), scalable architecture, data modeling, performance tuning, and testing.
+Backend developer experienced in designing and implementing server-side systems, APIs, and data storage solutions. My work focuses on **REST API design**, **scalable architecture**, and **performance tuning**. I am passionate about building offline-first **Progressive Web Applications (PWAs)** and exploring Linux environments.
 
----
-
-## Core competencies
-
-- API design and implementation (REST)
-- Server-side development with Python (FastAPI)
-- Database design and optimization (MySQL, PostgreSQL, Redis)
-- Progressive Web Applications (PWA) development
-- Application architecture, performance tuning, and caching
-- Containerization and deployment (Docker, Nginx, Vercel, Render, CI/CD)
-- Observability: logging, metrics, and error tracking
-- Testing: unit, integration, and end-to-end testing
-- Security fundamentals: authentication, authorization, input validation
+- 🔭 I’m currently working on **High-performance API systems**
+- 🌱 I’m currently learning **Advanced System Design & Microservices**
+- 💬 Ask me about **Django, FastAPI, and PWA development**
+- ⚡ Fun fact: **I live in the terminal (Ubuntu 24.04 LTS)**
 
 ---
 
-## Technical stack
+### 🛠️ Technical Stack
 
-### Languages
-
-<p align="center">
-  <img src="assets/assets/logos/python.svg" alt="Python" height="40" style="margin:0 8px"/>
-  <img src="assets/assets/logos/javascript.svg" alt="JavaScript" height="40" style="margin:0 8px"/>
-  <img src="assets/assets/logos/typescript.svg" alt="TypeScript" height="40" style="margin:0 8px"/>
-</p>
-
-### Frameworks & Runtime
-
-<p align="center">
-  <img src="assets/assets/logos/django.svg" alt="Django" height="40" style="margin:0 8px"/>
-  <img src="assets/assets/logos/fastapi.svg" alt="FastAPI" height="40" style="margin:0 8px"/>
-</p>
-
-### Databases
-
-<p align="center">
-  <img src="assets/assets/logos/mysql.svg" alt="MySQL" height="40" style="margin:0 8px"/>
-  <img src="assets/assets/logos/postgresql.svg" alt="PostgreSQL" height="40" style="margin:0 8px"/>
-  <img src="assets/assets/logos/mongodb.svg" alt="MongoDB" height="40" style="margin:0 8px"/>
-  <img src="assets/assets/logos/redis.svg" alt="Redis" height="40" style="margin:0 8px"/>
-</p>
-
-### Infrastructure & Tools
-
-<p align="center">
-  <img src="assets/assets/logos/docker.svg" alt="Docker" height="40" style="margin:0 8px"/>
-  <img src="assets/assets/logos/nginx.svg" alt="Nginx" height="40" style="margin:0 8px"/>
-  <img src="assets/assets/logos/pwa.svg" alt="PWA" height="40" style="margin:0 8px"/>
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,mysql,postgres,mongo,redis,docker,nginx,linux,git,github,vscode&perline=8" />
+  </a>
+</div>
 
 ---
 
-## Selected projects
+### 🚀 Selected Projects
 
-- Afrisound — Music education and archival platform
-  - Live: https://music-edu.vercel.app/
-  - Technologies: React, Node.js, Express, MongoDB
-  - Summary: A web application for cataloging and presenting traditional African musical instruments; focuses on responsive UI and structured data storage.
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Afrisound** | A music education and archival platform cataloging traditional African musical instruments with a focus on structured data storage. | `React` `Node.js` `MongoDB` | [🔴 Live](https://music-edu.vercel.app/) |
+| **Personal Portfolio** | A professional showcase site featuring responsive design, dark mode, and project showcases. | `JavaScript` `HTML/CSS` | [🔴 Live](https://fredricknyangau.vercel.app/) |
+| **WiFi Billing System** | *Planned/In-Progress.* A system for managing network billing using MikroTik routers. | `Django` `MySQL` `MikroTik` | [📂 GitHub](https://github.com/fredricknyangau) |
 
-- Personal portfolio
-  - Live: https://fredricknyangau.vercel.app/
-  - Summary: Personal site showcasing projects and professional background; includes responsive design and dark mode.
+---
 
-Additional projects and contributions are available on the GitHub profile: https://github.com/fredricknyangau
-
-
-## Contact
-
-<p align="center">
-  <a href="mailto:nyangaufredrick443@gmail.com">
-    <img src="assets/assets/logos/gmail.svg" alt="Email" height="28" style="vertical-align:middle"/>
-  </a>
-  <a href="https://www.linkedin.com/in/fredrick-nyang-au-857b75233">
-    <img src="assets/assets/logos/linkedin.svg" alt="LinkedIn" height="28" style="vertical-align:middle"/>
-  </a>
-  <a href="https://fredricknyangau.vercel.app/">
-    <img src="assets/assets/logos/vercel.svg" alt="Portfolio" height="28" style="vertical-align:middle"/>
-  </a>
-</p>
-
-## GitHub statistics
+### 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fredricknyangau&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fredricknyangau&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fredricknyangau&theme=radical" alt="Top languages" />
+  <br/><br/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=fredricknyangau&theme=radical&hide_border=true" alt="Streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fredricknyangau&theme=radical" alt="Languages" />
 </div>
 
-<p align="center">
-
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
-
-</p>
----
+</div>
