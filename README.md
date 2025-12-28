@@ -2,15 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=Backend+Developer;Django+Developer;PWA+Enthusiast;Open+Source+Contribu[...]"/>
   <br/><br/>
   <a href="https://fredricknyangau.vercel.app/">
-    <img src="assets/logos/vercel.svg" alt="Portfolio" height="28" style="vertical-align:middle"/>
+    <img src="assets/assets/logos/vercel.svg" alt="Portfolio" height="28" style="vertical-align:middle"/>
   </a>
   
   <a href="https://www.linkedin.com/in/fredrick-nyang-au-857b75233">
-    <img src="assets/logos/linkedin.svg" alt="LinkedIn" height="28" style="vertical-align:middle"/>
+    <img src="assets/assets/logos/linkedin.svg" alt="LinkedIn" height="28" style="vertical-align:middle"/>
   </a>
   
   <a href="mailto:nyangaufredrick443@gmail.com">
-    <img src="assets/logos/gmail.svg" alt="Email" height="28" style="vertical-align:middle"/>
+    <img src="assets/assets/logos/gmail.svg" alt="Email" height="28" style="vertical-align:middle"/>
   </a>
   
 </p>
@@ -42,33 +42,33 @@ Backend developer experienced in designing and implementing server-side systems,
 ### Languages
 
 <p align="center">
-  <img src="assets/logos/python.svg" alt="Python" height="40" style="margin:0 8px"/>
-  <img src="assets/logos/javascript.svg" alt="JavaScript" height="40" style="margin:0 8px"/>
-  <img src="assets/logos/typescript.svg" alt="TypeScript" height="40" style="margin:0 8px"/>
+  <img src="assets/assets/logos/python.svg" alt="Python" height="40" style="margin:0 8px"/>
+  <img src="assets/assets/logos/javascript.svg" alt="JavaScript" height="40" style="margin:0 8px"/>
+  <img src="assets/assets/logos/typescript.svg" alt="TypeScript" height="40" style="margin:0 8px"/>
 </p>
 
 ### Frameworks & Runtime
 
 <p align="center">
-  <img src="assets/logos/django.svg" alt="Django" height="40" style="margin:0 8px"/>
-  <img src="assets/logos/fastapi.svg" alt="FastAPI" height="40" style="margin:0 8px"/>
+  <img src="assets/assets/logos/django.svg" alt="Django" height="40" style="margin:0 8px"/>
+  <img src="assets/assets/logos/fastapi.svg" alt="FastAPI" height="40" style="margin:0 8px"/>
 </p>
 
 ### Databases
 
 <p align="center">
-  <img src="assets/logos/mysql.svg" alt="MySQL" height="40" style="margin:0 8px"/>
-  <img src="assets/logos/postgresql.svg" alt="PostgreSQL" height="40" style="margin:0 8px"/>
-  <img src="assets/logos/mongodb.svg" alt="MongoDB" height="40" style="margin:0 8px"/>
-  <img src="assets/logos/redis.svg" alt="Redis" height="40" style="margin:0 8px"/>
+  <img src="assets/assets/logos/mysql.svg" alt="MySQL" height="40" style="margin:0 8px"/>
+  <img src="assets/assets/logos/postgresql.svg" alt="PostgreSQL" height="40" style="margin:0 8px"/>
+  <img src="assets/assets/logos/mongodb.svg" alt="MongoDB" height="40" style="margin:0 8px"/>
+  <img src="assets/assets/logos/redis.svg" alt="Redis" height="40" style="margin:0 8px"/>
 </p>
 
 ### Infrastructure & Tools
 
 <p align="center">
-  <img src="assets/logos/docker.svg" alt="Docker" height="40" style="margin:0 8px"/>
-  <img src="assets/logos/nginx.svg" alt="Nginx" height="40" style="margin:0 8px"/>
-  <img src="assets/logos/pwa.svg" alt="PWA" height="40" style="margin:0 8px"/>
+  <img src="assets/assets/logos/docker.svg" alt="Docker" height="40" style="margin:0 8px"/>
+  <img src="assets/assets/logos/nginx.svg" alt="Nginx" height="40" style="margin:0 8px"/>
+  <img src="assets/assets/logos/pwa.svg" alt="PWA" height="40" style="margin:0 8px"/>
 </p>
 
 ---
@@ -91,13 +91,13 @@ Additional projects and contributions are available on the GitHub profile: https
 
 <p align="center">
   <a href="mailto:nyangaufredrick443@gmail.com">
-    <img src="assets/logos/gmail.svg" alt="Email" height="28" style="vertical-align:middle"/>
+    <img src="assets/assets/logos/gmail.svg" alt="Email" height="28" style="vertical-align:middle"/>
   </a>
   <a href="https://www.linkedin.com/in/fredrick-nyang-au-857b75233">
-    <img src="assets/logos/linkedin.svg" alt="LinkedIn" height="28" style="vertical-align:middle"/>
+    <img src="assets/assets/logos/linkedin.svg" alt="LinkedIn" height="28" style="vertical-align:middle"/>
   </a>
   <a href="https://fredricknyangau.vercel.app/">
-    <img src="assets/logos/vercel.svg" alt="Portfolio" height="28" style="vertical-align:middle"/>
+    <img src="assets/assets/logos/vercel.svg" alt="Portfolio" height="28" style="vertical-align:middle"/>
   </a>
 </p>
 
