@@ -44,7 +44,7 @@ Backend developer experienced in designing and implementing server-side systems,
 | :--- | :--- | :--- | :--- |
 | **Afrisound** | A music education and archival platform cataloging traditional African musical instruments with a focus on structured data storage. | `React` `Node.js` `MongoDB` | [🔴 Live](https://music-edu.vercel.app/) |
 | **Personal Portfolio** | A professional showcase site featuring responsive design, dark mode, and project showcases. | `JavaScript` `HTML/CSS` | [🔴 Live](https://fredricknyangau.vercel.app/) |
-| **WiFi Billing System** | *Planned/In-Progress.* A system for managing network billing using MikroTik routers. | `Django` `MySQL` `MikroTik` | [📂 GitHub](https://github.com/fredricknyangau) |
+| **WiFi Billing System** | *In-Progress.* A system for managing network billing using MikroTik routers. | `FastAPI` `Postgres` `MikroTik` | [📂 GitHub](https://github.com/fredricknyangau) |
 
 ---
 
