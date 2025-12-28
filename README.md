@@ -30,7 +30,7 @@ Backend developer experienced in designing and implementing server-side systems,
 - Database design and optimization (MySQL, PostgreSQL, Redis)
 - Progressive Web Applications (PWA) development
 - Application architecture, performance tuning, and caching
-- Containerization and deployment (Docker, Nginx, Vercel, CI/CD)
+- Containerization and deployment (Docker, Nginx, Vercel,Render, CI/CD)
 - Observability: logging, metrics, and error tracking
 - Testing: unit, integration, and end-to-end testing
 - Security fundamentals: authentication, authorization, input validation
@@ -40,13 +40,15 @@ Backend developer experienced in designing and implementing server-side systems,
 ## Technical stack
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
+
 ### Frameworks & Runtime
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000000?logo=flask&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?logo=fastAPI&logoColor=white&style=for-the-badge)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
