@@ -6,7 +6,7 @@
     <a href="https://fredricknyangau.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/fredrick-nyang-au-857b75233" target="_blank">
+    <a href="https://www.linkedin.com/in/fredricknyangau" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:nyangaufredrick443@gmail.com">
