@@ -19,9 +19,9 @@
 
 ### 👨‍💻 About Me
 
-Backend engineer based in **Kenya**, focused on the infrastructure layer that makes East Africa's mobile economy work — payments, data, and APIs that handle real-world conditions like unreliable connections and M-Pesa callbacks. 
+Backend Software Engineer based in **Kenya**, focused on the infrastructure layer that makes East Africa's mobile economy work — payments, data, and APIs that handle real-world conditions like unreliable connections and M-Pesa callbacks.
 
-I hold a BSc in Information Technology from **Kabarak University** and I am currently the **Founder & Team Lead at Backend Engineers 2026 Community**, where I lead a small engineering team through a structured backend roadmap: FastAPI, PostgreSQL, and system design.
+I hold a BSc in Information Technology from **Kabarak University** and I am currently the **Founder & Team Lead at Backend Software Engineers 2026 Community**, where I lead a small engineering team through a structured backend roadmap: FastAPI, PostgreSQL, and system design.
 
 - 🔭 Focusing on **High-performance API systems, System Design, and Data Modeling**
 - 📝 I write about what I build and review what I commit. **One commit every day, no exceptions.**
@@ -32,6 +32,7 @@ I hold a BSc in Information Technology from **Kabarak University** and I am curr
 ### 🧠 Architecture & Engineering Philosophy
 
 Building reliable and scalable systems is primary. My engineering philosophy revolves around:
+
 - **Resilient Architectures**: Embracing stateless services, database-level constraints (to guarantee data integrity), and deterministic error handling.
 - **Defensive Design**: Guarding against unexpected payloads, unreliable external webhooks (e.g., Safaricom Daraja), and gracefully recovering through exponential backoffs.
 - **Production Culture**: Multi-stage Docker builds, strict PEP 8 type-checking, comprehensive Git workflows, and containerized CI/CD pipelines.
@@ -50,17 +51,17 @@ Building reliable and scalable systems is primary. My engineering philosophy rev
 
 ### 🚀 Selected Projects
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **[Kukufiti Broiler Management](https://github.com/fredricknyangau/broiler_management_app_backend)** | Robust backend system engineered for broiler farmers to track FCR and mortality rates. Features strict data integrity with DB constraints and sub-30ms aggregations. | `Python` `FastAPI` `PostgreSQL` | [🔴 Live](https://kukufiti.vercel.app/) \| [📂 GitHub](https://github.com/fredricknyangau/broiler_management_app_backend) |
-| **[Mobile Money Gateway](https://github.com/fredricknyangau/mmgateway)** | Multi-tenant proxy layer for Safaricom Daraja integrations, normalizing error codes and ensuring webhook delivery with exponential backoff and Redis rate-limiting. | `FastAPI` `PostgreSQL` `Redis` `Docker` | [📂 GitHub](https://github.com/fredricknyangau/mmgateway) |
-| **[Wi-Fi Billing & MikroTik Integration](https://github.com/fredricknyangau/wifi-billing)** | Production-grade REST API integrating directly with MikroTik RouterOS for automated voucher generation and session control. | `FastAPI` `PostgreSQL` `MikroTik API` | [📂 GitHub](https://github.com/fredricknyangau/wifi-billing) |
+| Project                                                                                              | Description                                                                                                                                                          | Tech Stack                              | Links                                                                                                                     |
+| :--------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------- | :------------------------------------------------------------------------------------------------------------------------ |
+| **[Kukufiti Broiler Management](https://github.com/fredricknyangau/broiler_management_app_backend)** | Robust backend system engineered for broiler farmers to track FCR and mortality rates. Features strict data integrity with DB constraints and sub-30ms aggregations. | `Python` `FastAPI` `PostgreSQL`         | [🔴 Live](https://kukufiti.vercel.app/) \| [📂 GitHub](https://github.com/fredricknyangau/broiler_management_app_backend) |
+| **[Mobile Money Gateway](https://github.com/fredricknyangau/mmgateway)**                             | Multi-tenant proxy layer for Safaricom Daraja integrations, normalizing error codes and ensuring webhook delivery with exponential backoff and Redis rate-limiting.  | `FastAPI` `PostgreSQL` `Redis` `Docker` | [📂 GitHub](https://github.com/fredricknyangau/mmgateway)                                                                 |
+| **[Wi-Fi Billing & MikroTik Integration](https://github.com/fredricknyangau/wifi-billing)**          | Production-grade REST API integrating directly with MikroTik RouterOS for automated voucher generation and session control.                                          | `FastAPI` `PostgreSQL` `MikroTik API`   | [📂 GitHub](https://github.com/fredricknyangau/wifi-billing)                                                              |
 
 ---
 
 ### 🏗️ System Architecture Showcase
 
-*Examining the architecture of the Mobile Money Gateway: handling Safaricom Daraja webhooks with Redis rate limiting and PostgreSQL Row-Level Security isolation.*
+_Examining the architecture of the Mobile Money Gateway: handling Safaricom Daraja webhooks with Redis rate limiting and PostgreSQL Row-Level Security isolation._
 
 ```mermaid
 flowchart TD
@@ -76,7 +77,7 @@ flowchart TD
   Redis[("Redis (Rate Limits)")]:::cache
   DB[("PostgreSQL (RLS Tenant Data)")]:::db
   Safaricom[["Safaricom Daraja API"]]:::ext
-  
+
   Merchant -->|Triggers payment| GW
   GW -->|Check limits| Redis
   GW -->|Check tenant| DB
@@ -89,9 +90,9 @@ flowchart TD
 
 ### 📈 Career Timeline
 
-- **Jan 2026 – present:** Founder & Team Lead @ *Backend Engineers 2026 Community*
-- **Jan 2025 – Apr 2025:** ICT Intern @ *Public Service Office, Kenya*
-- **Sep 2021 – Dec 2025:** BSc Information Technology @ *Kabarak University, Nakuru*
+- **Jan 2026 – present:** Founder & Team Lead @ _Backend Software Engineers 2026 Community_
+- **Jan 2025 – Apr 2025:** ICT Intern @ _Public Service Office, Kenya_
+- **Sep 2021 – Dec 2025:** BSc Information Technology @ _Kabarak University, Nakuru_
 
 ---
 
