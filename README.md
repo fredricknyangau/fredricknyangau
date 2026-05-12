@@ -99,6 +99,7 @@ flowchart TD
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Modular Monolith Backend Systems](https://dev.to/fredricknyangau/modular-monolith-backend-systems-479l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
