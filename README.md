@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Backend+Engineer;FastAPI+%26+PostgreSQL;System+Architecture;One+commit+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=Junior+Backend+Engineer;FastAPI+%26+PostgreSQL;Building+for+East+Africa;One+commit+every+day" alt="Typing SVG" />
 
   <p>
     <a href="https://fredricknyangau.vercel.app/" target="_blank">
@@ -13,29 +13,30 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
+
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-Backend Software Engineer based in **Kenya**, focused on the infrastructure layer that makes East Africa's mobile economy work — payments, data, and APIs that handle real-world conditions like unreliable connections and M-Pesa callbacks.
+Junior Backend Engineer based in **Nairobi, Kenya**, focused on building secure, well-structured APIs for the East African market — payments, farm management, and billing systems that handle M-Pesa callbacks, real-world data conditions, and production constraints.
 
-I hold a BSc in Information Technology from **Kabarak University** and I am currently the **Founder & Team Lead at Backend Software Engineers 2026 Community**, where I lead a small engineering team through a structured backend roadmap: FastAPI, PostgreSQL, and system design.
+I hold a BSc in Information Technology from **Kabarak University** and currently serve as **Founder and Team Lead at Backend Engineers 2026**, where I lead a structured engineering team through a backend roadmap covering FastAPI, PostgreSQL, and system design.
 
-- 🔭 Focusing on **High-performance API systems, System Design, and Data Modeling**
+- 🔭 Currently building **KukuFiti** — a live agritech API for broiler farm management, deployed on Render
 - 📝 I write about what I build and review what I commit. **One commit every day, no exceptions.**
-- ⚡ Stack: **Python, FastAPI, PostgreSQL, Docker, Nginx (Ubuntu 24.04 LTS)**
+- 🌍 Open to **Junior Backend Engineering roles** in Nairobi, remote-first teams, and backend freelance contracts — especially in Fintech and Agritech
+- ⚡ Stack: **Python, FastAPI, PostgreSQL, asyncpg, Docker, Nginx (Ubuntu 24.04 LTS)**
 
 ---
 
-### 🧠 Architecture & Engineering Philosophy
+### 🧠 Engineering Philosophy
 
-Building reliable and scalable systems is primary. My engineering philosophy revolves around:
-
-- **Resilient Architectures**: Embracing stateless services, database-level constraints (to guarantee data integrity), and deterministic error handling.
-- **Defensive Design**: Guarding against unexpected payloads, unreliable external webhooks (e.g., Safaricom Daraja), and gracefully recovering through exponential backoffs.
-- **Production Culture**: Multi-stage Docker builds, strict PEP 8 type-checking, comprehensive Git workflows, and containerized CI/CD pipelines.
+- **Database first**: Design the schema before writing a single route. Data integrity is not optional.
+- **Failure modes early**: Guard against unexpected payloads, unreliable webhooks, and external API timeouts before they reach production.
+- **Raw SQL where it matters**: asyncpg over ORM on performance-critical paths for full query control.
+- **Reproducible deployments**: Numbered SQL migrations, environment-based config, and containerized builds — no manual steps on the server.
 
 ---
 
@@ -49,23 +50,22 @@ Building reliable and scalable systems is primary. My engineering philosophy rev
 
 ---
 
-### 🚀 Selected Projects
+### 🚀 Projects
 
-| Project                                                                                              | Description                                                                                                                                                          | Tech Stack                              | Links                                                                                                                     |
-| :--------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------- | :------------------------------------------------------------------------------------------------------------------------ |
-| **[Kukufiti Broiler Management](https://github.com/fredricknyangau/broiler_management_app_backend)** | Robust backend system engineered for broiler farmers to track FCR and mortality rates. Features strict data integrity with DB constraints and sub-30ms aggregations. | `Python` `FastAPI` `PostgreSQL`         | [🔴 Live](https://kukufiti.vercel.app/) \| [📂 GitHub](https://github.com/fredricknyangau/broiler_management_app_backend) |
-| **[Mobile Money Gateway](https://github.com/fredricknyangau/mmgateway)**                             | Multi-tenant proxy layer for Safaricom Daraja integrations, normalizing error codes and ensuring webhook delivery with exponential backoff and Redis rate-limiting.  | `FastAPI` `PostgreSQL` `Redis` `Docker` | [📂 GitHub](https://github.com/fredricknyangau/mmgateway)                                                                 |
-| **[Wi-Fi Billing & MikroTik Integration](https://github.com/fredricknyangau/wifi-billing)**          | Production-grade REST API integrating directly with MikroTik RouterOS for automated voucher generation and session control.                                          | `FastAPI` `PostgreSQL` `MikroTik API`   | [📂 GitHub](https://github.com/fredricknyangau/wifi-billing)                                                              |
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[KukuFiti — Broiler Farm API](https://github.com/fredricknyangau/broiler_management_app_backend)** | Production FastAPI backend for poultry farm management. Tracks flock health, feed cycles, mortality events, and KES/M-Pesa finances. Modular monolith with schema-per-module PostgreSQL isolation and numbered SQL migrations. | `Python` `FastAPI` `asyncpg` `PostgreSQL 16` `Docker` | [🟢 Live API](https://kukufiti.vercel.app/) \| [📂 GitHub](https://github.com/fredricknyangau/broiler_management_app_backend) |
+| **[Mobile Money Gateway](https://github.com/fredricknyangau/mmgateway)** | Multi-tenant proxy layer for Safaricom Daraja integrations. Normalizes error codes, handles webhook delivery with exponential backoff, and enforces per-tenant rate limiting via Redis. | `FastAPI` `PostgreSQL` `Redis` `Docker` | [📂 GitHub](https://github.com/fredricknyangau/mmgateway) |
+| **[WiFi Billing System](https://github.com/fredricknyangau/wifi-billing)** | ISP billing API with OAuth2 scopes, RBAC authorization, and M-Pesa Daraja payment flows. Integrates with MikroTik RouterOS for automated voucher generation and session control. | `FastAPI` `PostgreSQL` `MikroTik API` | [📂 GitHub](https://github.com/fredricknyangau/wifi-billing) |
 
 ---
 
-### 🏗️ System Architecture Showcase
+### 🏗️ System Architecture — Mobile Money Gateway
 
-_Examining the architecture of the Mobile Money Gateway: handling Safaricom Daraja webhooks with Redis rate limiting and PostgreSQL Row-Level Security isolation._
+_Multi-tenant Daraja webhook handling with Redis rate limiting and PostgreSQL Row-Level Security isolation._
 
 ```mermaid
 flowchart TD
-  %% Styles
   classDef user fill:#161B24,stroke:#10b981,stroke-width:1px,color:#10b981
   classDef sys fill:#10b981,stroke:#10b981,stroke-width:1px,color:#080A0D,font-weight:bold
   classDef cache fill:#080A0D,stroke:#2C3444,stroke-width:1px,color:#9A9590
@@ -90,13 +90,15 @@ flowchart TD
 
 ### 📈 Career Timeline
 
-- **Jan 2026 – present:** Founder & Team Lead @ _Backend Software Engineers 2026 Community_
-- **Jan 2025 – Apr 2025:** ICT Intern @ _Public Service Office, Kenya_
-- **Sep 2021 – Dec 2025:** BSc Information Technology @ _Kabarak University, Nakuru_
+| Period | Role |
+| :--- | :--- |
+| **Jan 2026 – Present** | Founder and Team Lead, Backend Engineers 2026 Community |
+| **Jan 2025 – Apr 2025** | ICT Intern, Huduma Centre Nakuru (Kenya) |
+| **Sep 2021 – Dec 2025** | BSc Information Technology, Kabarak University |
 
 ---
 
-### 📝 Latest Articles
+### 📝 Writing
 
 <!-- BLOG-POST-LIST:START -->
 - [Modular Monolith Backend Systems](https://dev.to/fredricknyangau/modular-monolith-backend-systems-479l)
@@ -104,7 +106,7 @@ flowchart TD
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fredricknyangau&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
