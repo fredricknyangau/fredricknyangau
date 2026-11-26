@@ -33,9 +33,9 @@ flaky connectivity, webhook failures and cash-heavy reseller networks.
 
 ## 👋 About
 
-I'm a junior software engineer with a **backend and payments focus**. My day-to-day stack is **FastAPI + PostgreSQL**, with **M-Pesa Daraja** integrations and **multi-tenant SaaS** architecture. On the front end I work in **React, TypeScript, NestJS and Prisma**, which I'm formalising on the Power Learn Project full-stack track.
+I am a junior software engineer with a **backend and payments focus**. My day-to-day stack is **FastAPI + PostgreSQL**, with **M-Pesa Daraja** integrations and **multi-tenant SaaS** architecture. On the front end I work in **React, TypeScript, NestJS and Prisma**, which I am formalising on the Power Learn Project full-stack track.
 
-I build the way I'd want to inherit a codebase: schema first, real migrations, environment configs, error handling and actual deployments. I use AI coding agents as part of my workflow, but nothing ships until it passes tests, review and my own explanation of why it works.
+I build the way I would want to inherit a codebase: schema first, real migrations, environment configs, error handling and actual deployments. I use AI coding agents as part of my workflow, but nothing ships until it passes tests, review and my own explanation of why it works.
 
 **Education:** BSc Information Technology, Kabarak University (2025)
 
@@ -122,7 +122,7 @@ A mobile app for Kenyan broiler farmers to track flocks, feed and performance.
 - ✍️ Articles on **modular monolith architecture** on [Dev.to](https://dev.to/fredricknyangau) and CoderLegion (May 2026)
 - 🧑‍🏫 **Team Lead, Backend Software Engineers 2026**, a study community helping engineers move from tutorials to production systems
 - 🎓 **Power Learn Project Africa** scholar (#1MillionDevs), currently on the full-stack track
-- 📚 Author of **The AI Safari**, a prompt-engineering and responsible-AI curriculum built around African market context
+- 📚 Author of **The AI Safari(PLP Redefined)**, a prompt-engineering and responsible-AI curriculum built around African market context
 
 ---
 
@@ -131,7 +131,6 @@ A mobile app for Kenyan broiler farmers to track flocks, feed and performance.
 - 🚢 Deploying **Frixel Connect** to production
 - 🌱 Getting **KukuFiti** in front of its first pilot farmers
 - 🧱 Building a production-standard **NestJS + Prisma** service with tests and CI
-- 📜 Preparing an **AZ-900** retake
 - 🧠 Practising data structures and algorithms without AI, three times a week
 
 ---
